@@ -10,3 +10,7 @@ This repository contains a Python script for training a Convolutional Neural Net
 - TensorFlow
 - Tesseract OCR
 
+### Dataset
+
+The dataset used for training the model is the "Indian_Number_Plates" dataset.
+
